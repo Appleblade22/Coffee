@@ -1,0 +1,58 @@
+body{
+    background-color: #000000;
+background-image: linear-gradient(315deg, #9aff57 0%, #edff4d 74%);
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.container{
+    text-align: center;
+    
+}
+.token{
+    vertical-align: top;
+    display: inline-block;
+    width: 420px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 6%;
+
+}
+.product img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.product p{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.caption{
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 25px;    
+    text-align: center;
+
+}
